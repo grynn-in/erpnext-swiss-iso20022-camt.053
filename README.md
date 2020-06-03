@@ -23,6 +23,14 @@ We will  have a SaaS product that you can subscribe to & get the payment entries
 5. Draft or Submit
 6. You complete the action of Submit
 
+### Updated on 6th June 2020
+
+As per ISO20022.org CAMT payment formats should be live across US / EU and ASIA. 
+Therefore CAMT.053 xml validator could be used anywhere in the world. 
+
+
+
+
 ## About Grynn
 For more information, pls. contact 
 Grynn GmbH //  Zurich // Schaffhausen
