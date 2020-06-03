@@ -29,7 +29,7 @@ As per ISO20022.org CAMT payment formats should be live across US / EU and ASIA.
 Therefore CAMT.053 xml validator could be used anywhere in the world. 
 
 If you want to embed images, this is how you do it:
-![Image of ISO](https://github.com/grynn-in/erpnext-swiss-iso20022-camt.053-csv/iso20022-live.png)
+![Image of ISO](https://github.com/grynn-in/erpnext-swiss-iso20022-camt.053-csv/blob/master/iso20022-live.png)
 
 
 ## About Grynn
